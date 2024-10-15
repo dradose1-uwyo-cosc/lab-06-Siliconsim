@@ -1,13 +1,9 @@
-# Your Name Here
+# Jake Huggins
 # UWYO COSC 1010
-# Submission Date
+# 10/15/2024
 # Lab 06
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
-
+# Lab Section: 14
+# Sources, people worked with, help given to: None
 
 random_string = """
 jppamiqxegokaizvkyawwurhewtcxohryzptznyuedhhmawpic
