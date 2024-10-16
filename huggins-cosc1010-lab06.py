@@ -3,7 +3,7 @@
 # 10/15/2024
 # Lab 06
 # Lab Section: 14
-# Sources, people worked with, help given to: None
+# Sources, people worked with, help given to: https://www.w3schools.com/python/ref_func_list.asp
 
 random_string = """
 jppamiqxegokaizvkyawwurhewtcxohryzptznyuedhhmawpic
